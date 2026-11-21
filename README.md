@@ -162,4 +162,4 @@ sprintf(Request, "GET /v3/weather/daily.json?key=YOUR_API_KEY&location=%s...", .
 
 ## 📄 许可证
 
-本仓库暂未指定许可证。开源建议选用 **MIT**（最宽松）或 **Apache-2.0**（含专利授权）；确定后在仓库根目录添加对应的 `LICENSE` 文件即可。
+本项目采用 [MIT License](LICENSE)，可自由使用、修改和分发，保留版权声明即可。
